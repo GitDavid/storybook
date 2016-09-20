@@ -58,7 +58,7 @@ PBS.KIDS.storybook.config = {
 				color: "#222222",
 				size: 48,
 				font: "Droid Serif",
-				text: "David's Storybook"
+				text: "David's Test"
 			},
 			{
 				type: "Sprite",
