@@ -68,6 +68,17 @@ PBS.KIDS.storybook.config = {
 				frameDelay: 10,
 				loop: true,
 				url: "images/ball-roll.png"
+			},
+			{
+				type: "Sprite",
+				x: 25,
+				y: 40,
+				width: 20,
+				height: 20,
+				numFrames: 1,
+				frameDelay: 10,
+				loop: true,
+				url: "images/freeknight/png/Attack (1).png"
 			}
 		]
 	},
