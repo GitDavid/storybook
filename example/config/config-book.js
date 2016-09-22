@@ -70,6 +70,17 @@ PBS.KIDS.storybook.config = {
 				frameDelay: 5,
 				loop: true,
 				url: "images/knight_atk.png"
+			},
+			{
+				type: "Sprite",
+				x: 50,
+				y: 40,
+				width: 20,
+				height: 20,
+				numFrames: 10,
+				frameDelay: 5,
+				loop: true,
+				url: "images/knight_jumpatk.png"
 			}
 		]
 	},
