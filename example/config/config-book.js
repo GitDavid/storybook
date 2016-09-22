@@ -47,7 +47,7 @@ PBS.KIDS.storybook.config = {
 	},
 	cover: {
 		background: {
-			url: "images/cover.jpg"
+			color: "#FF0000"
 		},
 		content: [
 			{
@@ -58,16 +58,7 @@ PBS.KIDS.storybook.config = {
 				color: "#222222",
 				size: 48,
 				font: "Droid Serif",
-				text: "David's Test"
-			},
-			{
-				type: "Sprite",
-				x: 25,
-				y: 80,
-				numFrames: 10,
-				frameDelay: 10,
-				loop: true,
-				url: "images/ball-roll.png"
+				text: "Knight Attack!"
 			},
 			{
 				type: "Sprite",
@@ -75,10 +66,10 @@ PBS.KIDS.storybook.config = {
 				y: 40,
 				width: 20,
 				height: 20,
-				numFrames: 1,
-				frameDelay: 10,
+				numFrames: 10,
+				frameDelay: 5,
 				loop: true,
-				url: "images/freeknight/png/Attack (1).png"
+				url: "images/knight_atk.png"
 			}
 		]
 	},
